@@ -1,3 +1,9 @@
+# Testing React
+
+This project is used to learn React by following this amazing course from Sephen Grider
+
+(https://www.udemy.com/react-redux/learn/v4/content)?
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
